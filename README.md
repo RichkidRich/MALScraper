@@ -4,3 +4,7 @@
 # Dependencies
 - Node JS => ```brew install node```
 - puppeteer => ```npm i puppeteer```
+
+# Usage
+1. First install the above dependencies
+2. Inside ```scrapeMAL.js```, add your username ```const Username = "Your MAL Username";```
