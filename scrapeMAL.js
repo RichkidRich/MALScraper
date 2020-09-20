@@ -8,7 +8,7 @@ const fs = require('fs');
   const page = await browser.newPage();
 
   //Replace Username with your own
-  const Username = 'RichkidRich';
+  const Username = 'Your Username';
 
   //Navigate to MAL List
   await page.goto(`https://myanimelist.net/animelist/${Username}`);
